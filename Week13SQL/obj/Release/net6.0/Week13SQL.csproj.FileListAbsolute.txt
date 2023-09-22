@@ -1,0 +1,4 @@
+C:\Users\Marge Käige\source\repos\Week13SQL\Week13SQL\obj\Release\net6.0\Week13SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marge Käige\source\repos\Week13SQL\Week13SQL\obj\Release\net6.0\Week13SQL.AssemblyInfoInputs.cache
+C:\Users\Marge Käige\source\repos\Week13SQL\Week13SQL\obj\Release\net6.0\Week13SQL.AssemblyInfo.cs
+C:\Users\Marge Käige\source\repos\Week13SQL\Week13SQL\obj\Release\net6.0\Week13SQL.csproj.CoreCompileInputs.cache
